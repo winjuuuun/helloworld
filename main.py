@@ -1,2 +1,2 @@
 hello world!
-dgdgddsgsgewgwwgwgw
+print("Hello")
